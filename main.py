@@ -7,3 +7,4 @@ word = input("Ketik kata yang tidak Kamu mengerti (gunakan huruf kapital semua!)
 
 meaning = meme_dict.get(word, "not found")
 print(meaning)
+print(word)
